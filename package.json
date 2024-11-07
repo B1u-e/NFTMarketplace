@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@chainlink/env-enc": "^1.0.5",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "ethers": "^6.13.4",
+    "hardhat": "^2.22.15"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-verify": "^2.0.11",
+    "@openzeppelin/contracts": "^4.9.6"
+  }
+}
